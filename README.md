@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center"> <b> </b> Mayusha Athukorala </b> </h1>
+<h1 align="center"> <b> </b> Mayusha Tishan Athukorala </b> </h1>
 <h3 align="center"> Aspiring Data Scientist | Data Enthusiast | Data Storyteller | Data Visualizer | Insight Seeker </h3> 
 
 ###
